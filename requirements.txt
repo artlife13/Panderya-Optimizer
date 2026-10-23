@@ -1,0 +1,6 @@
+gradio
+google-genai
+pydantic
+pandas
+python-dotenv
+matplotlib
